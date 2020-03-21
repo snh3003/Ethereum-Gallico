@@ -21,7 +21,7 @@ Have to ever got irritated with time between connecting trains and want to utili
 * Personalized Recommendations
 * Flight Booking
 * Cab Booking (Integrated API)
-* Verified Guides
+* Verified Guides ( Using Blockchain to prevent fake IDs and Scammer)
 * Crypto Payment Option
 * Complete Tour Of City
 * Best Restaurant
