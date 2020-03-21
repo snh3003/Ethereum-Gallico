@@ -1,5 +1,5 @@
-# HackNITR-101
-# Hackathon idea: No Scams and Use leisure time wisely
+# Ethereum-Gallico
+# No Scams and Use leisure time wisely
 
 #Problem 
 
