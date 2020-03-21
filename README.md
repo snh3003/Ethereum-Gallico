@@ -28,10 +28,10 @@ Have you ever got irritated with time between connecting trains and want to util
 * Best and Affordable Hotels
 
 # Tech Stack
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png" width="120">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="120">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="120">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="120">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="120">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="180">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png" width="140">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="140">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="140">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="140">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="140">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="200">
 
