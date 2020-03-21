@@ -24,7 +24,7 @@ Have you ever got irritated with time between connecting trains and want to util
 * Verified Guides ( Using Blockchain to prevent fake IDs and Scammer)
 * Crypto Payment Option
 * Complete Tour Of City
-* Best Restaurant
+* Best and Exotic Restaurant
 * Best and Affordable Hotels
 
 # Tech Stack
