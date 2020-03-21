@@ -13,6 +13,7 @@ We are here to make your life easy and adventurous.!
 ## Scams
 
 * India isn’t usually the gap year backpackers’ first choice destination. Maybe because of the onslaught of smells and dirt, or maybe it’s because of the horror stories of scams in India happening to travelers.
+* It was early morning of January 1. Our first day in Delhi we went out of the metro, and headed to the New Delhi Railway Station to get to Pahar Ganj, an area packed with hundreds of cheap and medium class hotels. 
 
 
 # Services We Offer
