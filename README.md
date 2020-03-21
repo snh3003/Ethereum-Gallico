@@ -28,7 +28,7 @@ Have you ever got irritated with time between connecting trains and want to util
 * Best and Affordable Hotels
 
 # Tech Stack
-* React
+* ![alt text](https://raw.githubusercontent.com/username/Ethereum-Gallico/master/Logos/to/IPFS_logo.png)
 * IPFS 
 * HTML 
 * CSS 
