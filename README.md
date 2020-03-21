@@ -7,6 +7,9 @@ My friend and I got lured into this travel agency by being told it was "The offi
 ## Haults
 Have to ever got irritated with time between connecting trains and want to utilize your time to explore the city or want to try a local dish or want to visit places of attraction in the city?
 
+* We at Gallico are working on a platform where individuals can plan and book their trips whether it is for spending leisure time between your two trains or a month long vacation trip. User can also book best hotels, after reaching to the destination user can book ride to hotel/ Search or Order food. User may also want to go 
+
+
 
 
 
@@ -15,9 +18,9 @@ Have to ever got irritated with time between connecting trains and want to utili
 
 
 # Services We Offer
-
+* Personalized Recommendations
 * Flight Booking
-* Cab Booking
+* Cab Booking (Integrated API)
 * Verified Guides
 * Crypto Payment Option
 * Complete Tour Of City
