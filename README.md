@@ -7,7 +7,7 @@ My friend and I got lured into this travel agency by being told it was "The offi
 ## Haults
 Have you ever got irritated with time between connecting trains and want to utilize your time to explore the city or want to try a local dish or want to visit places of attraction in the city?
 # Now it's time to say no to Scams and wasting time
-* We at Gallico are working on a platform where individuals can plan and book their trips whether it is for spending leisure time between your two trains or a month long vacation trip. User can also book best hotels, after reaching to the destination user can book ride to hotel/ Search or Order food. User may also want to go 
+* We at Gallico are working on a platform where individuals can plan and book their trips whether it is for spending leisure time between your trains or want to explore new places or a month long vacation.#Gallico got your back.!
 
 
 
@@ -26,4 +26,11 @@ Have you ever got irritated with time between connecting trains and want to util
 * Complete Tour Of City
 * Best Restaurant
 * Best and Affordable Hotels
+
+# Tech Stack
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png" width="120">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="120">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="120">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="120">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="120">
 
