@@ -32,4 +32,5 @@ Have you ever got irritated with time between connecting trains and want to util
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="120">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="120">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="120">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="120">
 
