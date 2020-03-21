@@ -29,8 +29,7 @@ Have you ever got irritated with time between connecting trains and want to util
 
 # Tech Stack
 * ![IPFS](https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png)
-* IPFS 
-* HTML 
-* CSS 
-* JS
+* ![React](https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png)
+* ![HTML,CSS,Javascript](https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png)
+* ![Ethereum](https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png)
 
