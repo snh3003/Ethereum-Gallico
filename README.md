@@ -12,7 +12,7 @@ We are here to make your life easy and adventurous.!
 # Scams
 ## Official Tourist Office Scam in New Delhi 
 
-* India isn’t usually the gap year backpackers’ first choice destination. Maybe because of the onslaught of smells and dirt, or maybe it’s because of the horror stories of scams in India happening to travelers. Let me tell you a story of a tourist being scammed in New Delhi.
+* India isn’t usually the gap year backpackers’ first choice destination. Maybe because of the onslaught of smells and dirt, or maybe it’s because of the horror stories of scams in India happening to travelers.
 
 
 # Services We Offer
