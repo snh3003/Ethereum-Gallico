@@ -27,3 +27,10 @@ Have you ever got irritated with time between connecting trains and want to util
 * Best Restaurant
 * Best and Affordable Hotels
 
+# Tech Stack
+* React
+* IPFS 
+* HTML 
+* CSS 
+* JS
+
