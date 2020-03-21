@@ -7,6 +7,7 @@ Have to ever got irritated with time between connecting trains and want to utili
 
 We are here to make your life easy and adventurous.!
 
+* We are working on a website where individuals can book their tour packages with getting personalized recommendations based on their profiles. 
 * Our Virtual assistant UI that shows you a travel plan in the city offering you choices like booking the hotel, cabs, ordering food, flights, movies, places to visit according to the niche(as in teacher, student, child, employee, tourist, etc) as well as books the entry tickets to these places.
 # Scams
 ## Official Tourist Office Scam in New Delhi 
