@@ -28,7 +28,7 @@ Have you ever got irritated with time between connecting trains and want to util
 * Best and Affordable Hotels
 
 # Tech Stack
-* ![IPFS](https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png){:height="24px" width="48px"}
+* ![IPFS](https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png=250*250)
 * IPFS 
 * HTML 
 * CSS 
