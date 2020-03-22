@@ -45,6 +45,6 @@ Screenshots/Video
 
 * [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
 
-* Smart Contract Address on Matic TestNet Address > (0xd307bd22b0fcf4e8576974efee8d19b592d31807)
+* Smart Contract Address on Matic TestNet Address - (0xd307bd22b0fcf4e8576974efee8d19b592d31807)
 
 * [Click here to view Smart Contract on Matic Testnet explorer](https://explorer.testnet2.matic.network/address/0xd307bd22b0fcf4e8576974efee8d19b592d31807/transactions)
