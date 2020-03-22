@@ -39,11 +39,12 @@ Screenshots/Video
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34%20(1).jpeg" width="500">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34.jpeg" width="500">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.35.jpeg" width="500">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.55.05.jpeg" width="500">
  
 * [Have a look at the Youtube Video](https://www.youtube.com/watch?v=KMF4asmoamM&feature=youtu.be)
 
 * [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
 
-* [Smart Contract Address on Matic TestNet](0xd307bd22b0fcf4e8576974efee8d19b592d31807)
+* [Smart Contract Address on Matic TestNet] (0xd307bd22b0fcf4e8576974efee8d19b592d31807)
 
-* [Click here to view Smart Contract on Matic Testnet explorer](https://explorer.testnet2.matic.network/address/0xd307bd22b0fcf4e8576974efee8d19b592d31807/transactions)
+* [Click here to view Smart Contract on Matic Testnet explorer] (https://explorer.testnet2.matic.network/address/0xd307bd22b0fcf4e8576974efee8d19b592d31807/transactions)
