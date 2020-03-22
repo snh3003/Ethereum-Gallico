@@ -2,10 +2,13 @@
 
 This is the official code repository for 'Gallico'. This Ehtereum, IPFs based platform was developed during the first edition of Hack NITR, an online hackathon conducted by NIT Rourkela.
 
-[Shahab](https://github.com/snh3003)
-[Rushank](https://github.com/rushu570)
-[Rahul](https://github.com/rahul7668gupta)
-[Ambuj](https://github.com/Ambuj-ay)
+-[Shahab](https://github.com/snh3003)
+
+-[Rushank](https://github.com/rushu570)
+
+-[Rahul](https://github.com/rahul7668gupta)
+
+-[Ambuj](https://github.com/Ambuj-ay)
 
 
 # No Scams and Use leisure time wisely
