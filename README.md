@@ -27,11 +27,11 @@ We deployed a smart contract on rinkeby ethereum network which stores the ipfs h
 My friend and I got lured into this travel agency by being told it was "The official government travel agency". Numerous "random" people in the Connaught area told us to go there. They were very persuasive. Upon arrival, we were offered drinks and "great prices" for our trips. We booked our entire holiday through them in a total of 160,000 Rupees. The travel agent assured us that he was a government official, and showed pictures of beautiful hotels and attractions that he would book for us. Later that same day we went online and read reviews telling that the agency was a scam. We contacted all off the hotels, trains, and airlines and asked if they had reservations on our name, or by the travel agency. Neither of them had any bookings. The only booking that was valid was the train taking us to the middle of nowhere!
 
 # Tech Stack
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png" width="140">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="140">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="140">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="140">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="140">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png" width="100">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="100">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="100">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="100">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="90">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="160">
 
 Screenshots/Video
