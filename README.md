@@ -1,7 +1,4 @@
-# Gallico
-
-
-
+# Ethereum-Gallico
 # No Scams and Use leisure time wisely
 
 ## Scams
@@ -19,6 +16,8 @@ Have you ever got irritated with time between connecting trains and want to util
 * The guides registered on the platform will be verified using blockchain.
 We deployed a smart contract on rinkeby ethereum network which stores the ipfs hash of the document hosted on a decentralized Interplanetary FileSystem. We do this because hosting a document in general on a blockchain is an expensive affair. We can address large amount of data with ipfs and place the immutable, permanent ipfs links into a blockchain transaction. This timestamps and secures the documents on an immutable ledger and can be sent to the intended person in the form of an ipfs hash. 
 * A chatbot that helps travellers on flight bookings based on information captured on travel dates, choice of airline and seating class. The chatbot also allows to choose a flight for travel and forwards the request to the travel agency for completing the booking. 
+
+* [Youtube Video](https://www.youtube.com/watch?v=lpJtMSJ2qwI)
 
 
 
