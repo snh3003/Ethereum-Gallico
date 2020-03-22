@@ -8,7 +8,7 @@ This is the official code repository for 'Gallico'. This Ehtereum, IPFs based pl
 
 [Rahul](https://github.com/rahul7668gupta)
 
-[Ambuj](https://github.com/Ambuj-ay)
+[A.Y.Priyadarshi](https://github.com/Ambuj-ay)
 
 # Overview
 
