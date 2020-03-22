@@ -8,7 +8,7 @@ This is the official code repository for 'Gallico'. This Ehtereum, IPFs based pl
 
 [Rahul](https://github.com/rahul7668gupta)
 
-[A.Y.Priyadarshi](https://github.com/Ambuj-ay)
+[Ambuj](https://github.com/Ambuj-ay)
 
 # Overview
 
@@ -39,3 +39,6 @@ Have you ever got irritated with time between connecting trains and want to util
 Screenshots/Video
 * [Have a look at the Youtube Video](https://www.youtube.com/watch?v=lpJtMSJ2qwI)
 * [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34%20(1).jpeg" width="280">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34.jpeg" width="280">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.35.jpeg" width="280">
