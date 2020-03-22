@@ -8,7 +8,7 @@ My friend and I got lured into this travel agency by being told it was "The offi
 Have you ever got irritated with time between connecting trains and want to utilize your time to explore the city or want to try a local dish or want to visit places of attraction in the city?
 # Now it's time to say no to Scams and wasting time
 * We at Gallico are working on a platform where individuals can plan and book their trips whether it is for spending leisure time between your trains or want to explore new places or a month long vacation. After booking the user can also book rides like Shikara in kashmir where user will be assisgned a verified guide .
-[Gallico](https://snh3003.github.io/HackNITR-Gallico/)
+* [Gallico](https://snh3003.github.io/HackNITR-Gallico/)
 
 The guides registered on the platform will be verified using blockchain.
 We deployed a smart contract on rinkeby ethereum network which stores the ipfs hash of the document hosted on a decentralized Interplanetary FileSystem. We do this because hosting a document in general on a blockchain is an expensive affair. We can address large amount of data with ipfs and place the immutable, permanent ipfs links into a blockchain transaction. This timestamps and secures the documents on an immutable ledger and can be sent to the intended person in the form of an ipfs hash. 
