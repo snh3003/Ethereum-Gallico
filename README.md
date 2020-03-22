@@ -30,5 +30,5 @@ We deployed a smart contract on rinkeby ethereum network which stores the ipfs h
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="140">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="140">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="140">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="200">
+* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="140">
 
