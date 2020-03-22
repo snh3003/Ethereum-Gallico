@@ -40,7 +40,7 @@ Screenshots/Video
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34.jpeg" width="500">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.35.jpeg" width="500">
  
-* [Have a look at the Youtube Video](https://www.youtube.com/watch?v=lpJtMSJ2qwI)
+* [Have a look at the Youtube Video](https://www.youtube.com/watch?v=KMF4asmoamM&feature=youtu.be)
 
 * [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
 
