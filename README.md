@@ -36,4 +36,6 @@ We deployed a smart contract on rinkeby ethereum network which stores the ipfs h
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="140">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="140">
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="160">
-
+# Market
+* Trains carries over 23 million passengers daily – equivalent to moving the entire population of Australia.Gallico main focus would be these people,to give them personalized experience to the places they want to visit or try out different servies we offer which would make their escapade awesome and memorable.
+* In year 2017-10035803 Foreign Tourist Arrived in india and in year 2018-10557929 Foreign Tourist Arrived in india which is 5.2% more.As tourism industry in India is increasing we at Gallico would be a one stop TRUSTED contributer to there escapade here in INDIA. 
