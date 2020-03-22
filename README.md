@@ -2,13 +2,14 @@
 
 This is the official code repository for 'Gallico'. This Ethereum, IPFs based platform was developed during the first edition of Hack NITR, an online hackathon conducted by NIT Rourkela.
 
-[Shahab](https://github.com/snh3003)
+## Hackers
+* [Shahab](https://github.com/snh3003)
 
-[Rushank](https://github.com/rushu570)
+* [Rushank](https://github.com/rushu570)
 
-[Rahul](https://github.com/rahul7668gupta)
+* [Rahul](https://github.com/rahul7668gupta)
 
-[Ambuj](https://github.com/Ambuj-ay)
+* [Ambuj](https://github.com/Ambuj-ay)
 
 # Overview
 
@@ -34,9 +35,10 @@ My friend and I got lured into this travel agency by being told it was "The offi
 * <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="160">
 
 Screenshots/Video
+
+ <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34%20(1).jpeg" width="500">
+ 
+ <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34.jpeg" width="500">
+ <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.35.jpeg" width="500">
 * [Have a look at the Youtube Video](https://www.youtube.com/watch?v=lpJtMSJ2qwI)
 * [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
- <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34%20(1).jpeg" width="400">
- 
- <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34.jpeg" width="400">
- <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.35.jpeg" width="400">
