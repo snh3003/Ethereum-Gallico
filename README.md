@@ -14,10 +14,9 @@ This is the official code repository for 'Gallico'. This Ehtereum, IPFs based pl
 
 The Indian tourism industry has a market size of about $26.78B as of 2019. However, the theft, scam and overcharging of money from the tourists is not only deteriorating the Indian values but also reducing people's will to visit India thereby hurting the market value.
 
-Therefore, We at Gallico came up with a platform that offers personalized experience to the places they want to visit or try out different servies we offer which would make their escapade awesome and memorable. We focussed on 4 main things :-
+Therefore, We at Gallico came up with a platform that offers personalized experience to the places they want to visit or try out different servies we offer which would make their escapade awesome and memorable. We focussed on 4 main things:-
 
-* Individuals can plan and book their trips whether it is for spending leisure time between your trains or want to explore new places or a month long vacation. After booking the user can also book rides like Shikara in kashmir where user will be assisgned a verified guide .
-* [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
+* Individuals can plan and book their trips whether it is for spending leisure time between your trains or want to explore new places or a month long vacation. After booking the user can also book rides like Shikara in kashmir where user will be assisgned a verified guide.
 
 * The guides registered on the platform will be verified using blockchain.
 We deployed a smart contract on rinkeby ethereum network which stores the ipfs hash of the document hosted on a decentralized Interplanetary FileSystem. We do this because hosting a document in general on a blockchain is an expensive affair. We can address large amount of data with ipfs and place the immutable, permanent ipfs links into a blockchain transaction. This timestamps and secures the documents on an immutable ledger and can be sent to the intended person in the form of an ipfs hash. 
@@ -42,4 +41,4 @@ Have you ever got irritated with time between connecting trains and want to util
 
 Screenshots/Video
 * [Have a look at the Youtube Video](https://www.youtube.com/watch?v=lpJtMSJ2qwI)
-
+* [Click here to view the website](https://snh3003.github.io/HackNITR-Gallico/)
